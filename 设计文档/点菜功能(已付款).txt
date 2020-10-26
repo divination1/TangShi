@@ -1,0 +1,14 @@
+（已付款）
+
+数据表tradedish需要有trade dish 
+先创建trade
+需要提交食堂id和用户id和实际花费
+
+
+
+
+提取食堂和用户id和实际消费 
+trade表中添加一条数据
+提取菜品id
+根据点菜量，tradedish添加至少一条数据
+返回点菜成功
